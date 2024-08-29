@@ -1,0 +1,1 @@
+//instale o prompt sync, digitando no terminal: 'npm install prompt-sync'
